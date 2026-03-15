@@ -1,20 +1,20 @@
 # MySQL_SIS
 A simple desktop application designed to manage student records. This project demonstrates how to connect a Java-based User Interface to a database to perform basic CRUD (Create, Read, Update, Delete) operations.
 
-## 🚀 Features
+## Features
 * Add Student: Input a student's First Name, Last Name, Age, and Email, and save them directly to the database.
 * View Students: Displays all registered students in a real-time, interactive table.
 * Update Student: Click on any student in the table to load their information, edit their details, and save the updates.
 * Delete Student: Select a student from the table and securely remove their record from the database.
 
-## 🛠️ What Was Used
+## What Was Used
 * Java: The core programming language used for the application logic.
 * Java Swing (GUI): Used to build the graphical user interface (buttons, text fields, and tables).
 * MySQL: The relational database used to store and manage the student data safely.
 * Apache NetBeans: The Integrated Development Environment (IDE) used to write the code and design the drag-and-drop GUI.
 * MySQL Connector/J: The JDBC driver library used to bridge the connection between the Java application and the MySQL database.
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### Step 1: Set Up the Database
 1. Open your MySQL client (like MySQL Workbench, XAMPP, or command line).
@@ -45,8 +45,6 @@ A simple desktop application designed to manage student records. This project de
 ### Step 4: Run the Application
 1. In NetBeans, open the Studentinformationsystems.java file.
 2. Right-click anywhere in the code and select Run File.
-
-
 
 
    
